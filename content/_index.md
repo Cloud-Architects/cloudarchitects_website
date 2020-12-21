@@ -1,7 +1,8 @@
 ---
-title: "Learn Theme for Hugo"
+title: "Who we are?"
 ---
 
-# Hugo learn theme
+# Who we are?
 
-[Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) is a theme for [Hugo](https://gohugo.io/), a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is **fully designed for documentation**.
+Hello, my friend. We are Cloud Architects!! An organization created by Leandro and Patryk.  
+Motivated by a passion for Open Source Projects and mainly projects that involve Cloud Computing, we created this organization. We are not maintained by AWS/GCP/Azure or any other cloud provider, but we want to share good content and knowledge about everything that involves cloud computing.
